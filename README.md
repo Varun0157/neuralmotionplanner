@@ -1,3 +1,5 @@
+**note**: changed the setup instructions to work for ubuntu 24.04
+
 # Neural MP: A Generalist Neural Motion Planner
 
 This repository is the official implementation of Neural MP: A Generalist Neural Motion Planner
